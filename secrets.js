@@ -10,7 +10,8 @@ const awsConfig = {
     secretAccessKey: 'LDw0/1qcqUQnf2JY1gV4md46xwuiMP9LcK4lTynP',
     region: 'us-east-1'
   };
-  
+
+// Minimal change for push
 
 let awsServiceUrl = 'https://s3.amazonaws.com/mybucket?AWSAccessKeyId=AKIAQWZLIMLMTB3DK4NL&Signature=LDw0/1qYqUQn32JY1gVymd46xwuiMP9LcK4lTsnP';
 
